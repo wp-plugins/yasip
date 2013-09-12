@@ -1,6 +1,6 @@
 <?php
 /*
-	Plugin Name: Yet Another Social Media Icon Widget Plugin (YASIP)
+	Plugin Name: Yet Another Social Media Icon Plugin (YASIP)
 	Plugin URI: http://www.mitchbartlett.com/editthis
 	Description: This plugin/widget allows you to insert different types of social media profile icons into your sidebar via a widget.
 	Author: Mitch Bartlett
