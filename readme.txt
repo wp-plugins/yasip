@@ -12,12 +12,12 @@ By simply dragging this widget into your sidebar or any widgetized area, you can
 
 == Installation ==
 
-1. Upload the entire social-profiles-widget folder to the /wp-content/plugins/ directory
+1. Upload the entire yasip folder to the /wp-content/plugins/ directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. In your Widgets menu, simply drag the widget labeled "Social Profiles" into a widgetized Area.
+1. In your Widgets menu, simply drag the widget labeled "YASIP" into a widgetized Area.
 1. Configure the widget by choosing a title, icon size, and the URLs to your various social profiles.
 
-== Frequently Asked Questions ==
+== FAQ==
 
 = The icons are a bit crowded in my sidebar. How do I give them breathing room? =
 
