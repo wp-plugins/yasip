@@ -8,7 +8,21 @@ This plugin/widget allows you to insert icon links to your social profiles in an
 
 == Description ==
 
-By simply dragging this widget into your sidebar or any widgetized area, you can easily place icon links to your various social profiles like twitter, facebook, flickr, etc.
+By simply dragging this widget into your sidebar or any widgetized area, you can easily place icon links to your various social profiles. Display icons in 1 of 3 different sizes and 1 of 4 different styles. Here’s a list of icons you’ll find with this plugin:
+
+* Twitter
+* Facebook
+* LinkedIn
+* YouTube
+* Flickr
+* Pinterest
+* StumbleUpon
+* Google Plus
+* Instagram
+* Tumblr
+* Vine
+* WordPress
+* RSS
 
 == Installation ==
 
