@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: MitchBartlett
+Contributors: mitchbartlett
 Tags: social media, social widget, social icons,
 Requires at least: 3.0
 Tested up to: 1.0
