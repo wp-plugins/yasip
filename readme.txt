@@ -2,8 +2,8 @@
 Contributors: mitchbartlett
 Tags: social media, social widget, social icons,
 Requires at least: 3.0
-Tested up to: 1.0
-Stable tag: 1.0
+Tested up to: 3.8
+Stable tag: 1.1
 This plugin/widget allows you to insert icon links to your social profiles in any widgetized area.
 
 == Description ==
@@ -27,9 +27,9 @@ By simply dragging this widget into your sidebar or any widgetized area, you can
 == Installation ==
 
 1. Upload the entire yasip folder to the /wp-content/plugins/ directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. In your Widgets menu, simply drag the widget labeled "YASIP" into a widgetized Area.
-1. Configure the widget by choosing a title, icon size, and the URLs to your various social profiles.
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. In your Widgets menu, simply drag the widget labeled "YASIP" into a widgetized Area.
+4. Configure the widget by choosing a title, icon size, and the URLs to your various social profiles.
 
 == FAQ==
 
@@ -45,6 +45,9 @@ You can adjust that code to suite your needs, depending on your situation.
 
 == Changelog ==
 
-= 0.3-beta =
-* Pre-Release
+1.0 - Official Release.
+
+1.1 - Fixed incompatibility with Wordpress 3.8 where the Appearance > Widget > YASIP would not display properly.
+
+- Removed a Thumbs.db file that was accidentally included in an images folder.
 
