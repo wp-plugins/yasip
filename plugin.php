@@ -6,7 +6,7 @@
 	Author: Mitch Bartlett
 	Author URI: http://www.mitchbartlett.net/
 
-	Version: 1.0
+	Version: 1.1
 
 	License: GNU General Public License v3.0
 	License URI: http://www.opensource.org/licenses/gpl-license.php
