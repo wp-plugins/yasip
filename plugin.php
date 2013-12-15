@@ -4,7 +4,7 @@
 	Plugin URI: http://mitchbartlett.com/yet-another-social-icons-plugin
 	Description: This plugin/widget allows you to insert different types of social media profile icons into your sidebar via a widget.
 	Author: Mitch Bartlett
-	Author URI: http://www.mitchbartlett.net/
+	Author URI: http://www.mitchbartlett.com/
 
 	Version: 1.1
 
